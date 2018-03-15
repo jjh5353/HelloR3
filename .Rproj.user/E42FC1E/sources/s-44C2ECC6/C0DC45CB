@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520930367366.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4236711502",
+    "id" : "C0DC45CB",
+    "lastKnownWriteTime" : 1520930385,
+    "last_content_update" : 1520930385287,
+    "path" : "D:/빅데이터/R/HelloR3/데이터탐색.R",
+    "project_path" : "데이터탐색.R",
+    "properties" : {
+        "cursorPosition" : "244,21",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

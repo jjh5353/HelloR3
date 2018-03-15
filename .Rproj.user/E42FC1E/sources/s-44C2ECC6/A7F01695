@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520934163279.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "636822841",
+    "id" : "A7F01695",
+    "lastKnownWriteTime" : 1520587015,
+    "last_content_update" : 1520587015,
+    "path" : "D:/빅데이터/R/HelloR3/군집분석.R",
+    "project_path" : "군집분석.R",
+    "properties" : {
+        "cursorPosition" : "60,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

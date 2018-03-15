@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520990005913.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3496167518",
+    "id" : "A8ED6B2B",
+    "lastKnownWriteTime" : 1521018485,
+    "last_content_update" : 1521018485243,
+    "path" : "D:/빅데이터/R/HelloR3/데이터 시각화.R",
+    "project_path" : "데이터 시각화.R",
+    "properties" : {
+        "cursorPosition" : "361,20",
+        "scrollLine" : "348",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
